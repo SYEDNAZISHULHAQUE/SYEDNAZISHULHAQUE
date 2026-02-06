@@ -2,7 +2,7 @@
 **Technical Lead – Big Data & Cloud Engineering | PySpark | AWS | Cloudera
 
 📧 **Email:** sn.haque136@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/syed-nazishul-haque  
+🔗 **LinkedIn:** www.linkedin.com/in/syed-nazishul-haque  
 
 <img align="right" alt="Data Engineering" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
