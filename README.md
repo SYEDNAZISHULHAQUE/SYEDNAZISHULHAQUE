@@ -7,7 +7,7 @@
 <img align="right" alt="Data Engineering" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 **I’m currently working on:** Large-scale data pipelines and Lakehouse architectures for Tier-1 banking clients  
-- 💬 **Ask me about:** PySpark, Apache Spark, Hive, DataWarehouse, Cloudera CDP, AWS Data Engineering,Databricks, Pyspark optimization
+- 💬 **Ask me about:** PySpark, Apache Spark, Hive, DataWarehouse, Cloudera CDP,Palantir Foundry, AWS Data Engineering,Databricks, Pyspark optimization
 - 🧠 **Expertise:** Big Data Engineering, PySpark & Spark SQL optimization, Lakehouse architecture, Cloud-native ETL pipelines, Data Modeling, and On-prem to Cloud migration (AWS & CDP) 
 - 📫 **How to reach me:** sn.haque136@gmail.com  
 - ⚡ **Fun fact:** I enjoy turning slow data pipelines into fast, scalable systems 🚀
